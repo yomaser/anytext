@@ -1,4 +1,4 @@
-AnyText(非官方实现)
+# AnyText(非官方实现)
 
 # 安装
 
@@ -54,3 +54,11 @@ python app.py
 ![](docs/images/api-ref.png)
 
 点击 "Try it out" 测试效果
+
+# Credit to
+
++ [AnyText](https://github.com/tyxsspa/AnyText) 官方项目
++ [IOPaint](https://github.com/Sanster/IOPaint) 代码参考
+
+# Other Things
+you can contact me at Twitter: https://twitter.com/jinchanzx
